@@ -1,4 +1,4 @@
-This just a simple project to test ui.shadcn.com, demo:
+This just a simple project to test ui.shadcn.com, demo: 
 
 ## Getting Started
 

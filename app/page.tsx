@@ -187,7 +187,7 @@ export default function Home() {
                 </div>
                 <div className="px-3 py-2 rounded-lg flex items-center bg-blue-500 mt-4 space-x-1 text-sm">
                   <InfoIcon className="h-4 w-4" />
-                  <span>Skip if you don't have a discount code</span>
+                  <span>Skip if you don&#39;t have a discount code</span>
                 </div>
               </div>
               <div className="mt-3 bg-black px-4 py-3 rounded-lg space-y-2 text-sm">
